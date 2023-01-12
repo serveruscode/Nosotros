@@ -122,7 +122,7 @@ body {
 .box:hover h4 {
     color: greenyellow;
 }
-
+/*medias*/
 @media(min-width:500px) and (max-width:964px) {
     .content {
         grid-template-columns: repeat(3, 1fr);
